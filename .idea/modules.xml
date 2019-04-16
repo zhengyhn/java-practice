@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyArrayBlockingQueue/MyArrayBlockingQueue.iml" filepath="$PROJECT_DIR$/MyArrayBlockingQueue/MyArrayBlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShutdownHook/ShutdownHook.iml" filepath="$PROJECT_DIR$/ShutdownHook/ShutdownHook.iml" />
     </modules>
   </component>
 </project>
