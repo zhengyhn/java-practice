@@ -1,0 +1,21 @@
+group 'io.github.zhengyhn.practice'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'idea'
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = "io.github.zhengyhn.practice.DiscardServer"
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/io.netty/netty-all
+    compile group: 'io.netty', name: 'netty-all', version: '4.1.36.Final'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyArrayBlockingQueue/MyArrayBlockingQueue.iml" filepath="$PROJECT_DIR$/MyArrayBlockingQueue/MyArrayBlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NameChecker/HotSwapClassLoader.iml" filepath="$PROJECT_DIR$/NameChecker/HotSwapClassLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomInteger.iml" filepath="$PROJECT_DIR$/RandomInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShutdownHook/ShutdownHook.iml" filepath="$PROJECT_DIR$/ShutdownHook/ShutdownHook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-discard.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-discard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-discard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-discard_main.iml" group="netty-discard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-discard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-discard_test.iml" group="netty-discard" />
     </modules>
   </component>
 </project>
