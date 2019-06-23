@@ -1,4 +1,4 @@
-package main.java.io.github.zhengyhn.practice;
+package io.github.zhengyhn.practice;
 
 import java.io.File;
 import java.io.IOException;
