@@ -95,13 +95,16 @@ output application/json
         </error-handler>
     </flow>
 	<flow name="get:\books\(bookId):book-config">
-        <ee:transform xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core">
+        <ee:transform xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core" doc:id="e04098b7-ce80-4155-a507-b5cc1a50a391">
             <ee:variables>
-                <ee:set-variable variableName="bookId">attributes.uriParams.bookId</ee:set-variable>
+                <ee:set-variable variableName="bookId"><![CDATA[attributes.uriParams.bookId]]></ee:set-variable>
             </ee:variables>
         </ee:transform>
         <logger level="INFO" message="get:\books\(bookId):book-config" />
     </flow>
+	<flow name="bookFlow" doc:id="0c9f15e9-732e-44ec-b1c9-d7fa47820b22" >
+		<set-payload value="abc" doc:name="Set Payload" doc:id="76bb32b1-30cf-4417-8828-0724051338a5" />
+	</flow>
 	<flow name="book-console">
         <http:listener config-ref="HTTP_Listener_config" path="/console/*">
             <http:response statusCode="#[vars.httpStatus default 200]">

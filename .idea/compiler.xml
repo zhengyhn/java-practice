@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="CustomEvent_main" target="1.8" />
+      <module name="CustomEvent_test" target="1.8" />
+      <module name="JavaEvent_main" target="1.8" />
+      <module name="JavaEvent_test" target="1.8" />
       <module name="netty-discard_main" target="1.8" />
       <module name="netty-discard_test" target="1.8" />
     </bytecodeTargetLevel>

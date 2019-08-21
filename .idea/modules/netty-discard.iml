@@ -3,13 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../netty-discard">
-      <sourceFolder url="file://$MODULE_DIR$/../../netty-discard/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../netty-discard/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../netty-discard/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: io.netty:netty-all:4.1.36.Final" level="project" />
-    <orderEntry type="library" name="Gradle: io.netty:netty-all:4.1.36.Final" level="project" />
   </component>
 </module>
