@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomEvent.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomEvent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomEvent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomEvent_main.iml" group="CustomEvent" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomEvent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomEvent_test.iml" group="CustomEvent" />
-      <module fileurl="file://$PROJECT_DIR$/NameChecker/HotSwapClassLoader.iml" filepath="$PROJECT_DIR$/NameChecker/HotSwapClassLoader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaEvent.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaEvent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaEvent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaEvent_main.iml" group="JavaEvent" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaEvent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaEvent_test.iml" group="JavaEvent" />
-      <module fileurl="file://$PROJECT_DIR$/MyArrayBlockingQueue/MyArrayBlockingQueue.iml" filepath="$PROJECT_DIR$/MyArrayBlockingQueue/MyArrayBlockingQueue.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RandomInteger.iml" filepath="$PROJECT_DIR$/RandomInteger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ShutdownHook/ShutdownHook.iml" filepath="$PROJECT_DIR$/ShutdownHook/ShutdownHook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-discard.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-discard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-discard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-discard_main.iml" group="netty-discard" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-discard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-discard_test.iml" group="netty-discard" />
+      <module fileurl="file://$PROJECT_DIR$/my_array_blocking_queue/my_array_blocking_queue.iml" filepath="$PROJECT_DIR$/my_array_blocking_queue/my_array_blocking_queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random_integer/random_integer.iml" filepath="$PROJECT_DIR$/random_integer/random_integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shutdown_hook/shutdown_hook.iml" filepath="$PROJECT_DIR$/shutdown_hook/shutdown_hook.iml" />
     </modules>
   </component>
 </project>
