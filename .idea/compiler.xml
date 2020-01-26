@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="my_array_blocking_queue" />
-        <module name="netty" />
-        <module name="random_integer" />
         <module name="shutdown_hook" />
+        <module name="netty" />
+        <module name="bubblesort" />
+        <module name="random_integer" />
+        <module name="my_array_blocking_queue" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bank" target="1.5" />
+      <module name="bubblesort" target="1.8" />
+      <module name="file_encrption" target="1.8" />
       <module name="my_array_blocking_queue" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="practice" target="1.8" />

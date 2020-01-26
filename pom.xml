@@ -8,8 +8,13 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <!--<module>client</module>-->
-        <!--<module>server</module>-->
+        <module>my_array_blocking_queue</module>
+        <module>netty</module>
+        <module>random_integer</module>
+        <module>shutdown_hook</module>
+        <module>file_encrption</module>
+        <module>bank</module>
+        <module>bubblesort</module>
     </modules>
     <dependencies>
         <dependency>
