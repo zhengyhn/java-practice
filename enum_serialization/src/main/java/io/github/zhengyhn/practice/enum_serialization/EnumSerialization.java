@@ -1,4 +1,4 @@
-package main.java.io.github.zhengyhn.practice.enum_serialization;
+package io.github.zhengyhn.practice.enum_serialization;
 
 import java.io.*;
 

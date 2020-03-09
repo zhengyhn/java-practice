@@ -12,9 +12,8 @@
         <module>netty</module>
         <module>random_integer</module>
         <module>shutdown_hook</module>
-        <module>file_encrption</module>
-        <module>bank</module>
         <module>bubblesort</module>
+        <module>string_enum_util</module>
     </modules>
     <dependencies>
         <dependency>

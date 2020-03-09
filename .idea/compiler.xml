@@ -10,6 +10,7 @@
         <module name="netty" />
         <module name="bubblesort" />
         <module name="random_integer" />
+        <module name="string_enum_util" />
         <module name="my_array_blocking_queue" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="practice" target="1.8" />
       <module name="random_integer" target="1.8" />
       <module name="shutdown_hook" target="1.8" />
+      <module name="string_enum_util" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

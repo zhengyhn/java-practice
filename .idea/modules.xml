@@ -3,12 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bubblesort/bubblesort.iml" filepath="$PROJECT_DIR$/bubblesort/bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinese_charset/chinese_charset.iml" filepath="$PROJECT_DIR$/chinese_charset/chinese_charset.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum_serialization/enum_serialization.iml" filepath="$PROJECT_DIR$/enum_serialization/enum_serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/my_array_blocking_queue/my_array_blocking_queue.iml" filepath="$PROJECT_DIR$/my_array_blocking_queue/my_array_blocking_queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/random_integer/random_integer.iml" filepath="$PROJECT_DIR$/random_integer/random_integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/shutdown_hook/shutdown_hook.iml" filepath="$PROJECT_DIR$/shutdown_hook/shutdown_hook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_enum_util/string_enum_util.iml" filepath="$PROJECT_DIR$/string_enum_util/string_enum_util.iml" />
     </modules>
   </component>
 </project>

@@ -19,64 +19,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>selectNowSupplier</find>
-      <find>decode(</find>
-      <find>phoneTextField</find>
-      <find>openAccountBtn</find>
-      <find>addressLabel</find>
-      <find>registerFrame</find>
-      <find>accountOpenBtn</find>
-      <find>nameLabel</find>
-      <find>nameTextField</find>
-      <find>CustomerFrame</find>
-      <find>registerBtn</find>
-      <find>customerFrame</find>
-      <find>accountTable</find>
-      <find>m</find>
-      <find>model.</find>
-      <find>&quot;model.</find>
-      <find>depositFrame</find>
-      <find>customerHomeFrame</find>
-      <find>loanFrame</find>
-      <find>loan</find>
-      <find>receivedAccountId</find>
-      <find>0</find>
-      <find>0L</find>
-      <find>accountQueryBtn</find>
-      <find>deposite</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>nameLabel</replace>
-      <replace>nameTextField</replace>
-      <replace>addressLabel</replace>
-      <replace>addressTextField</replace>
-      <replace>registerBtn</replace>
-      <replace>loginBtn</replace>
-      <replace>passwordLabel</replace>
-      <replace>loginFrame</replace>
-      <replace>accountQueryBtn</replace>
-      <replace>amountLabel</replace>
-      <replace>amountTextField</replace>
-      <replace>withdrawFrame</replace>
-      <replace>ManagerFrame</replace>
-      <replace>reportBtn</replace>
-      <replace>managerFrame</replace>
-      <replace>customerTable</replace>
-      <replace>loanFrame</replace>
-      <replace>transactionFrame</replace>
-      <replace>loan</replace>
-      <replace>repayFrame</replace>
-      <replace>repay</replace>
-      <replace>repayAccountId</replace>
-      <replace>queryBtn</replace>
-      <replace>withdraw</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,7 +52,6 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -113,32 +59,41 @@
     <property name="SearchEverywhereHistoryKey" value="combinechan&#9;PSI&#9;JAVA://io.netty.channel.CombinedChannelDuplexHandler&#10;bytome&#9;PSI&#9;JAVA://io.netty.handler.codec.ByteToMessageCodec&#10;messagetome&#9;PSI&#9;JAVA://io.netty.handler.codec.MessageToMessageDecoder" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/enum-serialization/src" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="io.github.zhengyhn.practice.string_enum_util" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="io.github.zhengyhn.practice.my_array_blocking_queue" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.zhengyhn.practice.string_enum_util" />
       <recent name="customer" />
       <recent name="model" />
       <recent name="" />
       <recent name="my_array_blocking_queue" />
-      <recent name="file_encryption" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/enum-serialization/src" />
       <recent name="$PROJECT_DIR$/file_encrption/src/main/resources" />
       <recent name="$PROJECT_DIR$/file_encrption/src/main/java/io/github/zhengyhn/practice" />
       <recent name="$PROJECT_DIR$/ShutdownHook" />
-      <recent name="$PROJECT_DIR$/RandomInteger" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumSerialization">
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -236,58 +191,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application" />
-      <module name="bank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.practice.bubble_sort.BubbleSort" />
-      <module name="bubblesort" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiscardServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.practice.netty.DiscardServer" />
-      <module name="netty" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.practice.chinese_charset.App" />
+      <module name="chinese_charset" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.zhengyhn.practice.netty.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.io.github.zhengyhn.practice.enum_serialization.EnumSerialization" />
-      <module name="enum_serialization" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.io.github.zhengyhn.practice.enum_serialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.practice.netty.TimeClient" />
-      <module name="netty" />
-      <option name="PROGRAM_PARAMETERS" value="localhost 8080" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.github.zhengyhn.practice.netty.*" />
+          <option name="PATTERN" value="io.github.zhengyhn.practice.chinese_charset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,6 +207,36 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringEnumUtilTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="string_enum_util" />
+      <option name="PACKAGE_NAME" value="io.github.zhengyhn.practice.string_enum_util" />
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.practice.string_enum_util.StringEnumUtilTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringEnumUtilTest.testFromStringSingleShouldOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="string_enum_util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.zhengyhn.practice.string_enum_util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.zhengyhn.practice.string_enum_util" />
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.practice.string_enum_util.StringEnumUtilTest" />
+      <option name="METHOD_NAME" value="testFromStringSingleShouldOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -374,19 +314,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DiscardServer" />
-      <item itemvalue="Application.TimeClient" />
-      <item itemvalue="Application.Application" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.EnumSerialization" />
+      <item itemvalue="JUnit.StringEnumUtilTest" />
+      <item itemvalue="JUnit.StringEnumUtilTest.testFromStringSingleShouldOk" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumSerialization" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.TimeClient" />
-        <item itemvalue="Application.DiscardServer" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.StringEnumUtilTest.testFromStringSingleShouldOk" />
       </list>
     </recent_temporary>
   </component>
@@ -412,58 +347,89 @@
       <workItem from="1571663632460" duration="12997000" />
       <workItem from="1572747804576" duration="614000" />
       <workItem from="1580002958368" duration="1296000" />
-      <workItem from="1580011639397" duration="94000" />
+      <workItem from="1580011639397" duration="19611000" />
+      <workItem from="1580526122633" duration="3863000" />
+      <workItem from="1580545715703" duration="8245000" />
+      <workItem from="1582959607812" duration="1000" />
+      <workItem from="1582959615189" duration="9891000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="MyArrayBlockingQueueTest - 2019.10.09 at 23h 33m 31s.xml">
-      <configuration name="MyArrayBlockingQueueTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyArrayBlockingQueueTest - 2019.10.09 at 23h 46m 48s.xml">
-      <configuration name="MyArrayBlockingQueueTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="210" key="GridCell.Tab.0.bottom" timestamp="1580011591283">
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582965788772">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580011591283" />
-    <state width="1238" height="210" key="GridCell.Tab.0.center" timestamp="1580011591282">
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1582965788772" />
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1582962272429">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1580011591282" />
-    <state width="1238" height="210" key="GridCell.Tab.0.left" timestamp="1580011591282">
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1582962272429" />
+    <state x="90" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582961945909">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1580011591282" />
-    <state width="1238" height="210" key="GridCell.Tab.0.right" timestamp="1580011591283">
+    <state x="90" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1280.777@0.23.1280.777" timestamp="1582961945909" />
+    <state x="359" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582961918202">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580011591283" />
-    <state width="1238" height="210" key="GridCell.Tab.1.bottom" timestamp="1580011591284">
+    <state x="359" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1280.777@0.23.1280.777" timestamp="1582961918202" />
+    <state width="1238" height="243" key="GridCell.Tab.0.bottom" timestamp="1583758879188">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580011591284" />
-    <state width="1238" height="210" key="GridCell.Tab.1.center" timestamp="1580011591283">
+    <state width="1238" height="243" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583758879188" />
+    <state width="1238" height="243" key="GridCell.Tab.0.center" timestamp="1583758879186">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1580011591283" />
-    <state width="1238" height="210" key="GridCell.Tab.1.left" timestamp="1580011591283">
+    <state width="1238" height="243" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583758879186" />
+    <state width="1238" height="243" key="GridCell.Tab.0.left" timestamp="1583758879184">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1580011591283" />
-    <state width="1238" height="210" key="GridCell.Tab.1.right" timestamp="1580011591284">
+    <state width="1238" height="243" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583758879184" />
+    <state width="1238" height="243" key="GridCell.Tab.0.right" timestamp="1583758879188">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="210" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1580011591284" />
-    <state x="17" y="23" key="new project wizard" timestamp="1580003057084">
+    <state width="1238" height="243" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583758879188" />
+    <state width="1238" height="164" key="GridCell.Tab.1.bottom" timestamp="1580386363895">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="17" y="23" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1580003057084" />
+    <state width="1238" height="164" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580386363895" />
+    <state width="1238" height="164" key="GridCell.Tab.1.center" timestamp="1580386363894">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1580386363894" />
+    <state width="1238" height="164" key="GridCell.Tab.1.left" timestamp="1580386363893">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1580386363893" />
+    <state width="1238" height="164" key="GridCell.Tab.1.right" timestamp="1580386363894">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1580386363894" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1583758301836">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1583758301836" />
+    <state x="344" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582962084823">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="344" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.777@0.23.1280.777" timestamp="1582962084823" />
+    <state x="280" y="175" width="1000" height="472" key="find.popup" timestamp="1580576797537">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="280" y="175" width="1000" height="472" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1580576797537" />
+    <state x="27" y="23" key="new project wizard" timestamp="1583758347719">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="27" y="23" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1583758347719" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1583046431836">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1583046431836" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -498,104 +464,16 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/enum_serialization/src/main/java/io/github/zhengyhn/practice/enum_serialization/EnumSerialization.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java</url>
           <line>363</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Collections.java</url>
+          <line>2416</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>bank</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
