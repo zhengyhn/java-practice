@@ -14,6 +14,8 @@
         <module>shutdown_hook</module>
         <module>bubblesort</module>
         <module>string_enum_util</module>
+        <module>tomcat</module>
+        <module>hibernate-enum</module>
     </modules>
     <dependencies>
         <dependency>

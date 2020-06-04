@@ -2,6 +2,9 @@ package io.github.zhengyhn.practice.chinese_charset;
 
 public class App {
     public static void main(String[] args) {
+        System.out.println(Integer.toBinaryString(-1));
+        System.out.println(Integer.toBinaryString(-2));
+
         String text = "选";
         try {
 //            byte[] bytes = text.getBytes("GB2312");
