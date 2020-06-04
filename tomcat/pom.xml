@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <properties>
-        <tomcat.version>8.5.23</tomcat.version>
+        <tomcat.version>9.0.35</tomcat.version>
     </properties>
 
     <artifactId>tomcat</artifactId>
